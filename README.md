@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/nicoloandreola">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e36209&fontSize=54&height=90&width=570&text=Hi%2C%20I'm%20Nicol%C3%B2!" alt="Hi, I&#39;m Nicolò! 👋" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e36209&fontSize=54&height=90&width=570&text=Hi%2C%20I'm%20Nicol%C3%B2!" alt="Hi, I&#39;m Nicolò!" />
   </a>
 </p>
 
@@ -23,6 +23,7 @@ Late start, but somehow it's worked out very well so far, always with great resu
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -44,12 +45,6 @@ Late start, but somehow it's worked out very well so far, always with great resu
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=nicoloandreola&bg_color=00000000&color=e36209&line=e36209&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
